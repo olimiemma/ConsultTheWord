@@ -1,0 +1,41 @@
+import openai
+from flask import Flask, request, jsonify
+
+# Set up the OpenAI API key and model ID
+openai.api_key = "YOUR_API_KEY"
+model_id = "YOUR_MODEL_ID"
+
+app = Flask(__name__)
+
+@app.route('/api/chatbot', methods=['POST'])
+def chatbot():
+    # Get the user's message from the request body
+    message = request.json['message']
+
+    # Set the constraints for the OpenAI API
+    constraints = """
+        The response should be related to or around the Bible.
+        The response should include at least one verse from the Bible.
+    """
+
+    # Generate a response using the OpenAI API
+    response = openai.Completion.create(
+        engine=model_id,
+        prompt=message,
+        max_tokens=60,
+        n=1,
+        stop=None,
+        temperature=0.7,
+        constraints={
+            "encoded": constraints
+        }
+    )
+
+    # Extract the response text from the OpenAI API response
+    response_text = response.choices[0].text.strip()
+
+    # Return the response as JSON
+    return jsonify({'message': response_text})
+
+if __name__ == '__main__':
+    app.run(debug=True)
