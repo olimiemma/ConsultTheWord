@@ -62,15 +62,11 @@
       // Add the user's message to the chat container
       addMessage(message, true);
 
-      // TODO: Send the message to the backend and receive a response
+      // Get the bot's response
+      var response = chatbot.answer(message);
 
-      // For now, just add a placeholder response
-      var response = "I am a chatbot. I am still learning and don't know how to respond yet.";
-
-      // Add the bot's response to the chat container after a delay to simulate processing time
-      setTimeout(function() {
-        addMessage(response, false);
-      }, 1000);
+      // Add the bot's response to the chat container
+      addMessage(response, false);
     }
 
     // Add an event listener to the chat form
@@ -85,7 +81,7 @@
       addMessage(answer, false);
     });
 
-    // Add the ability to generate creative text formats
+    // Add the ability to generate text
     chatbot.on("generate", function(format, content) {
       var response = chatbot.generate(format, content);
       addMessage(response, false);
@@ -99,9 +95,6 @@
 
     // Start the chatbot
     chatbot.start();
-
-    // Use a trie to store the chatbot's knowledge base
-    var trie = new Trie();
-    trie.add("hello", "world");
-    trie.add("how are you", "I am fine");
-    trie.add("
+  </script>
+</body>
+</html>
