@@ -1,7 +1,8 @@
 # ConsultTheWord
 In good or bad times, we consult the word. The word of God is always there for you.  Wether you seek counsel ,advice or just get looking to get re-nourished. Anywhere ,anytime, for anything, Consult The Word!
 
-Chatbot
+ConsultTheWord Chatbot.
+
 This is a simple word / religious text consulting chatbot that can answer questions, generate text, and translate languages.
 
 To use the chatbot:
