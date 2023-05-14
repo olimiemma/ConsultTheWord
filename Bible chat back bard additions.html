@@ -99,7 +99,9 @@
 
     // Start the chatbot
     chatbot.start();
-  </script>
-</body>
-</html>
 
+    // Use a trie to store the chatbot's knowledge base
+    var trie = new Trie();
+    trie.add("hello", "world");
+    trie.add("how are you", "I am fine");
+    trie.add("
