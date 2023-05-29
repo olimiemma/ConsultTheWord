@@ -1,20 +1,25 @@
-# ConsultTheWord
-In good or bad times, we consult the word. The word of God is always there for you.  Wether you seek counsel ,advice or just get looking to get re-nourished. Anywhere ,anytime, for anything, Consult The Word!
+<b>"Consult the Word" App</b>
 
-ConsultTheWord.
+The "Consult the Word" app is a simple and easy-to-use tool that can help you find guidance from various sacred scriptures. Simply type in a question or phrase, and the app will search through a variety of texts and provide you with relevant passages.
 
-This is a simple word / religious text consulting chatbot that can answer questions, generate text, and translate languages.
+The "Consult the Word" app is currently supported for the following scriptures:
 
-To use the chatbot:
-Open the index.html file in a web browser.
-Type a message in the chat input field.
-Click the Send button.
-The chatbot will respond to your message.
-To learn more about the chatbot:
-The chatbot is powered by Bard, a large language model from Google AI.
-Bard can answer questions, generate text, and translate languages.
-Bard is still under development, but it is learning new things every day.
-To contribute to the chatbot:
-The chatbot is open source. You can find the code on GitHub.
-If you would like to contribute to the chatbot, please feel free to open an issue or submit a pull request.
-Thank you for using the chatbot!
+-Bible
+-Quran
+-Bhagavad Gita
+-Tao Te Ching
+-Dhammapada
+The app is still under development, but it is already a valuable resource for spiritual guidance. If you are looking for wisdom from the scriptures, the "Consult the Word" app is a great place to start.
+
+<b>How to use:</b>
+To use the "Consult the Word" app, simply type in a question or phrase in the search box. The app will then search through the scriptures and provide you with relevant passages.
+
+For example, if you type in "What is the meaning of life?", the app will provide you with passages from the Bible, the Quran, and the Bhagavad Gita that address this question.
+
+<b>Features:</b>
+The "Consult the Word" app has a number of features that make it a valuable resource for spiritual guidance:
+
+Easy to use: The app is designed with simplicity in mind. Just type in your query, and relevant passages will be presented to you.
+Comprehensive: The app supports a variety of sacred texts, including the Bible, the Quran, the Bhagavad Gita, the Tao Te Ching, and the Dhammapada.
+Up-to-date: The app is regularly updated with new passages from the scriptures to ensure a rich and diverse selection.
+Contact: If you have any questions or feedback, please contact me, am sure you will find a way. 
