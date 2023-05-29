@@ -4,11 +4,11 @@ The "Consult the Word" app is a simple and easy-to-use tool that can help you fi
 
 The "Consult the Word" app is currently supported for the following scriptures:
 
--Bible
--Quran
--Bhagavad Gita
--Tao Te Ching
--Dhammapada
+-Bible<br>
+-Quran<br>
+-Bhagavad Gita<br>
+-Tao Te Ching<br>
+-Dhammapada<br>
 The app is still under development, but it is already a valuable resource for spiritual guidance. If you are looking for wisdom from the scriptures, the "Consult the Word" app is a great place to start.
 
 <b>How to use:</b>
