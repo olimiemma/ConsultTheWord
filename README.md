@@ -24,6 +24,8 @@ Comprehensive: The app supports a variety of sacred texts, including the Bible, 
 Up-to-date: The app is regularly updated with new passages from the scriptures to ensure a rich and diverse selection.
 Contact: If you have any questions or feedback, please contact me, am sure you will find a way. 
 ![Screenshot from 2023-05-29 19-24-42](https://github.com/olimiemma/ConsultTheWord/assets/98601170/6d758188-ca88-4929-bddd-98bcf9b32492)
+
+<br> <b> Option II</b>
 ![Screenshot from 2023-05-29 19-24-08](https://github.com/olimiemma/ConsultTheWord/assets/98601170/6873d461-f357-4c59-929a-ab769bc38bbd)
 
 
