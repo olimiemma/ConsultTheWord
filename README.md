@@ -53,9 +53,9 @@ https://github.com/olimiemma/ConsultTheWord/assets/98601170/da816d2e-a87f-4df5-8
 <b>Sample screenshot III </b><br>
 
 ![Screenshot from 2023-06-06 15-32-28](https://github.com/olimiemma/ConsultTheWord/assets/98601170/4bf54460-9c2d-4502-883d-a670bbe7af2a)<br><b>Sample screenshot IV </b><br>
-![Screenshot from 2023-05-29 19-24-42](https://github.com/olimiemma/ConsultTheWord/assets/98601170/0032e174-3037-4ccc-9a2b-d4509f801965)<b>Sample screenshot V </b><br>
 
-![Screenshot from 2023-05-29 19-24-08](https://github.com/olimiemma/ConsultTheWord/assets/98601170/89d16306-7028-4d85-ae32-dbd1ecf6c4fe)<b>Sample screenshot VI </b><br>
+
+![Screenshot from 2023-05-29 19-24-08](https://github.com/olimiemma/ConsultTheWord/assets/98601170/89d16306-7028-4d85-ae32-dbd1ecf6c4fe)<b>Sample screenshot V </b><br>
 
 <br>
 <br>
