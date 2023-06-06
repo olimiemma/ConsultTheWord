@@ -33,11 +33,7 @@ We believe that the scriptures have been guiding humans for millennia, and with 
 
 The "Consult the Word" app, including its concept, design, and functionality, is the intellectual property of the creator. All rights reserved. The app and its associated content, including the selection and presentation of scripture passages, are protected by copyright laws and international treaties.
 
-Any unaut
-
-https://github.com/olimiemma/ConsultTheWord/assets/98601170/da816d2e-a87f-4df5-8e3c-6638d647f20d
-
-horized use, reproduction, or distribution of the app or its content is strictly prohibited. The "Consult the Word" app is intended for personal use and should not be used for commercial purposes without explicit permission from the creator.
+Any unauthorized use, reproduction, or distribution of the app or its content is strictly prohibited. The "Consult the Word" app is intended for personal use and should not be used for commercial purposes without explicit permission from the creator.
 
 If you have any questions or inquiries regarding the app's ownership or copyright, please feel free to contact us. We appreciate your understanding and cooperation in respecting our intellectual property rights.
 
@@ -45,7 +41,7 @@ If you have any questions or inquiries regarding the app's ownership or copyrigh
 
 We value your input! If you have any questions, feedback, or would like to collaborate, please don't hesitate to reach out to us. Your suggestions help us improve the app for the benefit of all users.
 
-
+https://github.com/olimiemma/ConsultTheWord/assets/98601170/da816d2e-a87f-4df5-8e3c-6638d647f20d
 ![its not just reading the word its consulting the word marketing poster Ad (1)]
 (https://github.com/olimiemma/ConsultTheWord/assets/98601170/dc5aebc6-198f-44d9-a752-533c3c1a1a91)
 
