@@ -42,10 +42,11 @@ If you have any questions or inquiries regarding the app's ownership or copyrigh
 We value your input! If you have any questions, feedback, or would like to collaborate, please don't hesitate to reach out to us. Your suggestions help us improve the app for the benefit of all users.
 
 https://github.com/olimiemma/ConsultTheWord/assets/98601170/da816d2e-a87f-4df5-8e3c-6638d647f20d
-![its not just reading the word its consulting the word marketing poster Ad (1)]
-(https://github.com/olimiemma/ConsultTheWord/assets/98601170/dc5aebc6-198f-44d9-a752-533c3c1a1a91)
 
-<b>Sample screenshots</b>
+![its not just reading the word its consulting the word marketing poster Ad (1)](https://github.com/olimiemma/ConsultTheWord/assets/98601170/dc5aebc6-198f-44d9-a752-533c3c1a1a91)
+
+<b>Sample screenshots</b><br>
+
 ![Screenshot from 2023-05-29 19-24-08](https://github.com/olimiemma/ConsultTheWord/assets/98601170/7ef5f6eb-22e7-4c9e-8360-e5c8bc0158af)
 
 ![Screenshot from 2023-05-29 19-24-08](https://github.com/olimiemma/ConsultTheWord/assets/98601170/7813b7d1-1024-469a-8858-9ab76655800c)
