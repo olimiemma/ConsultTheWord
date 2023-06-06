@@ -1,16 +1,16 @@
 # Consult the Word App
 
-The Consult the Word app is a user-friendly chat application designed to provide guidance, counseling, and meaningful conversations based on various sacred scriptures or your one of preferred choice. It allows you to simply type in a chat, phrase, or question, and receive responses that are grounded in the scriptures, with relevant verses quoted directly. 
+The Consult the Word app is a user-friendly chat application designed to provide guidance, counseling, and meaningful conversations based on various sacred scriptures. It allows you to simply type in a chat, phrase, or question, and receive responses that are grounded in the scriptures, with relevant verses quoted directly. 
 
 ## Supported Scriptures
 
 The "Consult the Word" app currently supports the following sacred texts:
 
-- Tao Te Ching
 - Bible
 - Quran
 - Bhagavad Gita
 - Dhammapada
+- Tao Te Ching
 
 ## Key Functions
 
