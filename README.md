@@ -40,10 +40,13 @@ https://github.com/olimiemma/ConsultTheWord/assets/98601170/da816d2e-a87f-4df5-8
 ![its not just reading the word its consulting the word marketing poster Ad (1)](https://github.com/olimiemma/ConsultTheWord/assets/98601170/dc5aebc6-198f-44d9-a752-533c3c1a1a91)
 
 <b>Sample screenshot </b><br>
-![Screenshot from 2023-06-06 15-33-44](https://github.com/olimiemma/ConsultTheWord/assets/98601170/b8849105-92ce-4021-882b-e148165c86e4)<br>
+![Screenshot from 2023-06-06 15-33-44](https://github.com/olimiemma/ConsultTheWord/assets/98601170/b8849105-92ce-4021-882b-e148165c86e4)
+
 
 <b>Sample screenshot </b><br>
-![Screenshot from 2023-05-29 19-24-08](https://github.com/olimiemma/ConsultTheWord/assets/98601170/7813b7d1-1024-469a-8858-9ab76655800c)<br>
+
+![Screenshot from 2023-05-29 19-24-08](https://github.com/olimiemma/ConsultTheWord/assets/98601170/7813b7d1-1024-469a-8858-9ab76655800c)
+<br>
 <b>Sample screenshot </b><br>
 
 ![Screenshot from 2023-06-06 15-34-13](https://github.com/olimiemma/ConsultTheWord/assets/98601170/55aa0065-620d-4517-8b96-a14356df4245)<br>
