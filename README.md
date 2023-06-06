@@ -1,34 +1,41 @@
-<b>"Consult the Word" App</b>
+# Consult the Word App
 
-The "Consult the Word" app is a simple and easy-to-use tool that can help you find guidance from various sacred scriptures. Simply type in a question or phrase, and the app will search through a variety of texts and provide you with relevant passages.
+The Consult the Word app is a user-friendly chat application designed to provide guidance, counseling, and meaningful conversations based on various sacred scriptures or your one of preferred choice. It allows you to simply type in a chat, phrase, or question, and receive responses that are grounded in the scriptures, with relevant verses quoted directly. 
 
-The "Consult the Word" app is currently supported for the following scriptures:
+## Supported Scriptures
 
--Bible<br>
--Quran<br>
--Bhagavad Gita<br>
--Tao Te Ching<br>
--Dhammapada<br>
-The app is still under development, but it is already a valuable resource for spiritual guidance. If you are looking for wisdom from the scriptures, the "Consult the Word" app is a great place to start.
+The "Consult the Word" app currently supports the following sacred texts:
 
-<b>How to use:</b>
-To use the "Consult the Word" app, simply type in a question or phrase in the search box. The app will then search through the scriptures and provide you with relevant passages.
+- Tao Te Ching
+- Bible
+- Quran
+- Bhagavad Gita
+- Dhammapada
 
-For example, if you type in "What is the meaning of life?", the app will provide you with passages from the Bible, the Quran, and the Bhagavad Gita that address this question.
+## Key Functions
 
-<b>Features:</b>
-The "Consult the Word" app has a number of features that make it a valuable resource for spiritual guidance:
+The app, although still under development, already offers valuable resources for those seeking wisdom from the scriptures, guidance, counseling, daily word reading, or a deeper understanding of the word. With the "Consult the Word" app, you can easily access the scriptures of your choice and have meaningful conversations, with relevant verses.
 
-Easy to use: The app is designed with simplicity in mind. Just type in your query, and relevant passages will be presented to you.
-Comprehensive: The app supports a variety of sacred texts, including the Bible, the Quran, the Bhagavad Gita, the Tao Te Ching, and the Dhammapada.
-Up-to-date: The app is regularly updated with new passages from the scriptures to ensure a rich and diverse selection.
-Contact: If you have any questions or feedback, please contact me, am sure you will find a way. 
-![Screenshot from 2023-05-29 19-24-42](https://github.com/olimiemma/ConsultTheWord/assets/98601170/6d758188-ca88-4929-bddd-98bcf9b32492)
+## How to Use
 
-<br> <b> Option II</b>
-![Screenshot from 2023-05-29 19-24-08](https://github.com/olimiemma/ConsultTheWord/assets/98601170/6873d461-f357-4c59-929a-ab769bc38bbd)
+Using the "Consult the Word" app is effortless. Simply type in whatever is on your mind, whether it's a question or phrase, and let the app provide you with insightful passages. The answers can be grounded in all scriptures or A specific one of your choosing.
 
+<b>Future Functionality</b>
 
+We are excited to announce that in the near future, the "Consult the Word" app will be available for Apple's Vision Pro, offering an even more immersive environment for seeking guidance and counseling. With the Vision Pro integration, you will be able to consult the scriptures and receive counseling in a private and trusted setting.
 
-https://github.com/olimiemma/ConsultTheWord/assets/98601170/823938d6-fe6d-4075-b55f-5488cf679fb3
+The Vision Pro integration will provide a seamless experience, allowing you to engage with the scriptures like never before, without  any human judgments or concerns about your secrets getting out. Whether you seek counseling or simply want to immerse yourself in the word to replenish your soul, the Vision Pro integration will offer a secure and immersive platform.
 
+We believe that the scriptures have been guiding humans for millennia, and with this new functionality, you will have access to guidance grounded in the word like never before. Private, safe, and trusted, the "Consult the Word" app with Apple's Vision Pro integration will empower you to find the counseling and guidance you need.
+
+<b>Copyright and Ownership</b>
+
+The "Consult the Word" app, including its concept, design, and functionality, is the intellectual property of the creator. All rights reserved. The app and its associated content, including the selection and presentation of scripture passages, are protected by copyright laws and international treaties.
+
+Any unauthorized use, reproduction, or distribution of the app or its content is strictly prohibited. The "Consult the Word" app is intended for personal use and should not be used for commercial purposes without explicit permission from the creator.
+
+If you have any questions or inquiries regarding the app's ownership or copyright, please feel free to contact us. We appreciate your understanding and cooperation in respecting our intellectual property rights.
+
+## Contact
+
+We value your input! If you have any questions, feedback, or would like to collaborate, please don't hesitate to reach out to us. Your suggestions help us improve the app for the benefit of all users.
