@@ -1,4 +1,4 @@
-# Consult the Word App
+# Consult the Word
 
 The Consult the Word app is a user-friendly chat application designed to provide guidance, counseling, and meaningful conversations based on various sacred scriptures. It allows you to simply type in a chat, phrase, or question, and receive responses that are grounded in the scriptures, with relevant verses quoted directly. 
 
