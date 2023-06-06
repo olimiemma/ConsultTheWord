@@ -20,7 +20,8 @@ The app, although still under development, already offers valuable resources for
 
 Using the "Consult the Word" app is effortless. Simply type in whatever is on your mind, whether it's a question or phrase, and let the app provide you with insightful passages. The answers can be grounded in all scriptures or A specific one of your choosing.
 
-<b>Future Functionality</b>
+
+## Future Functionality
 
 We are excited to announce that in the near future, the "Consult the Word" app will be available for Apple's Vision Pro, offering an even more immersive environment for seeking guidance and counseling. With the Vision Pro integration, you will be able to consult the scriptures and receive counseling in a private and trusted setting.
 
