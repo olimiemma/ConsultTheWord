@@ -1,6 +1,6 @@
 # Consult the Word
 
-The Consult the Word app is a user-friendly chat application designed to provide. meaningful conversations, guidance, counseling, and advice based on various sacred scriptures or one of your preferred choice.. It allows you to simply type in a chat, phrase, or question, and receive responses that are grounded in the scriptures, with relevant verses quoted directly. 
+The Consult the Word app is a user-friendly chat application designed to provide meaningful conversations, guidance, counseling, and advice based on various sacred scriptures or one of your preferred choice.. It allows you to simply type in a chat, phrase, or question, and receive responses that are grounded in the scriptures, with relevant verses quoted directly. 
 Try it on poe https://poe.com/ConsultTheWord
 
 ## Supported Scriptures
