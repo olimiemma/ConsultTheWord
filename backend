@@ -1,7 +1,7 @@
 import openai
 from flask import Flask, request, jsonify
 
-# Set up the OpenAI API key and model ID
+# Set up the OpenAI API key and model ID.
 openai.api_key = "YOUR_API_KEY"
 model_id = "YOUR_MODEL_ID"
 
