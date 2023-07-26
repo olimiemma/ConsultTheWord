@@ -73,7 +73,7 @@
                 });
 }
 
- //install the Axios library 
+ //install the Alibrary 
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
 			// Get the chat input element and value
