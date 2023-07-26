@@ -14,8 +14,8 @@ def chatbot():
 
     # Set the constraints for the OpenAI API
     constraints = """
-        The response should be related to or around the Bible.
-        The response should include at least one verse from the Bible.
+        The response should be related to or around the Holy Texts.
+        The response should include at least one verse from the Holys texts.
     """
 
     # Generate a response using the OpenAI API
