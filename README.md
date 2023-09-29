@@ -24,11 +24,11 @@ Using the "Consult the Word" app is effortless. Simply type in whatever is on yo
 
 ## Future Functionality
 
-We are excited to announce that in the near future, the "Consult the Word" app will be available for Apple's Vision Pro, offering an even more immersive environment for seeking guidance and counseling. With the Vision Pro integration, you will be able to consult the scriptures and receive counseling in a private and trusted setting.
+We are excited to announce that in the near future, the "Consult the Word" app will be available for Apple's Vision Pro, offering an even more immersive environment for seeking guidance and counseling. With the Vision Pro integration, you will be able to consult the scriptures and receive counseling in a private and trusted setting. 
 
 The Vision Pro integration will provide a seamless experience, allowing you to engage with the scriptures like never before, without  any human judgments or concerns about your secrets getting out. Whether you seek counseling or simply want to immerse yourself in the word to replenish your soul, the Vision Pro integration will offer a secure and immersive platform.
 
-We believe that the scriptures have been guiding humans for millennia, and with this new functionality, you will have access to guidance grounded in the word like never before. Private, safe, and trusted, the "Consult the Word" app with Apple's Vision Pro integration will empower you to find the counseling and guidance you need.
+We believe that the scriptures have been guiding humans for millennia, and with this new functionality, you will have access to guidance grounded in the Word like never before. Private, safe, and trusted, the "Consult the Word" app with Apple's Vision Pro integration will empower you to find the counseling and guidance you need.
 
 
 
