@@ -1,0 +1,17 @@
+text= """A friend has just found out she wont graduate. How can I help or advice her?
+ """
+stream = anthropic.completions.create(
+    prompt=f"{HUMAN_PROMPT} Using information you have on the largest religions \
+    in the world based on their respective numbers of followers. \
+    Use the major religious texts associated with these religions, such as the\
+    Bible and the Quran to Respond to all user questions  in Text below and offer advice based on the teachings within\
+    those texts. Include relevant quotations when appropriate. \
+    Make the responses short, precise, useful, and fun.{text}\n\n{AI_PROMPT}",
+    max_tokens_to_sample=1000,
+    model="claude-2",
+    stream=True,
+)
+reponse=''
+for completion in stream:
+    response+=completion.completion
+    print(completion.completion, end="", flush=True)
