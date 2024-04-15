@@ -1,7 +1,7 @@
 # Consult the Word
 
-The Consult the Word app is a user-friendly chat application designed to provide meaningful conversations, guidance, counseling, and advice based on various sacred scriptures or one of your preferred choice.. It allows you to simply type in a chat, phrase, or question, and receive responses that are grounded in the scriptures, with relevant verses quoted directly. 
-Try it on poe https://poe.com/ConsultTheWord
+The Consult the Word app is a user-friendly chat application designed to provide meaningful conversations, guidance, counseling, and advice based on various sacred scriptures or one of your preferred choice.. It allows you to simply type in a chat, phrase, or question, and receive responses that are grounded in the scriptures, with relevant verses quoted directly. tHE html files are good to go, currently working on prompt engineering the back end. It'll be running on Open AI's GPT 4 model. I cant post such code, yet, but you are welcome to try the demo
+on poe https://poe.com/ConsultTheWord . Keep in mind the one on poe was created early 2022, so alot might have changed since then. Thanks.
 
 ## Supported Scriptures
 
